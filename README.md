@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 The topic of this project is on Coronavirus patient transmission and mortality in Korea between January and June of 2020. My interest in this project stems from a concern in the speed of the transmission rates of covid and wanting to learn of the earlier handling of the virus in foreign countries. I am also interested to learn how martality rates are correlated with certain age ranges and also the overall mortality rate in this particular dataset. This topic is one that is currently on the minds of all people across the globe and I hope to learn something to gain some peace of mind, or perhaps learn of any previously unrealized concerns. Th e dataset being used provides, when possible, the patient ID of the individual you spread the virus to them, which interests me, because I like to be able to track the spread and see how many individuals are typically infected by a patient. This dataset would conform nicely to a user-faced dashboard as there are several attributes which can be represented in a variety of visual ways.
 
-![images/106400977-1582221957198gettyimages-1201980398.jpg]
+![alt text](https://github.com/data301-2020-winter1/course-project-solo_116/blob/main/images/106400977-1582221957198gettyimages-1201980398.jpg)
 
 ## Dataset Description
 
