@@ -21,4 +21,4 @@ Jesse Plamondon - Computer Science Major, Minor in Economics. 3 time CWSF medali
 
 ## References
 
-Image credit: https://image.cnbcfm.com/api/v1/image/106400977-1582221957198gettyimages-1201980398.jpeg?v=1582840557&w=678&h=381
+*Italic text* Image credit: *Italic text* https://image.cnbcfm.com/api/v1/image/106400977-1582221957198gettyimages-1201980398.jpeg?v=1582840557&w=678&h=381
