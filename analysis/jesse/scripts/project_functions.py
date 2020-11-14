@@ -16,4 +16,5 @@ def load_and_process(url):
         .str
         .replace(r's$', '')
     )
+    
     return df1

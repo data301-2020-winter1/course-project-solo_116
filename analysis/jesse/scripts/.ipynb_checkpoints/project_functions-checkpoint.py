@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-url = 'https://raw.githubusercontent.com/data301-2020-winter1/course-project-solo_116/main/data/raw/PatientInfo.csv?token=ARAZ2TNWR5XGKITUUY7OFOK7WBCTY'
 def load_and_process(url):
     # Method Chain 1 (Load and remove unneccasary columns and rows with too many missing values)
     df1 = (
@@ -17,4 +16,5 @@ def load_and_process(url):
         .str
         .replace(r's$', '')
     )
+    df1['approximate_age'] = df1['approximate_age'].astype(int)
     return df1
