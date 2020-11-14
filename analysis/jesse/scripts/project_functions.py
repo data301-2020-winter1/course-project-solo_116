@@ -230,8 +230,7 @@
     "        .str\n",
     "        .replace(r's$', '')\n",
     "    )\n",
-    "    return df1\n",
-    "load_and_process(url)"
+    "    return df1"
    ]
   },
   {
