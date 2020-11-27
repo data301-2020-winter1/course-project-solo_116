@@ -1,4 +1,4 @@
 
 # Data
 
-### This directory contains all raw data.
+This directory contains all raw data.
