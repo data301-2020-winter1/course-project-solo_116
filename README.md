@@ -6,6 +6,7 @@
 The topic of this project is on the relationship between age, sex and mortality rates in South Korea between January and June of 2020; I want to determine what age and what sex has the highest mortality rates in this dataset. My interest in this project stems from a concern in the amount of lives lost to this virus and wanting to learn of the earlier handling of the virus in foreign countries. I am also interested to learn how mortality rates are correlated with certain age ranges and also the overall mortality rate in this particular dataset, to allow people to further understand the risk this pandemic poses to themselves and those around them. The dataset being used provides, when possible, the patient ID of the individual who spread the virus to them, which interests me, because I like to be able to track the spread and see how many individuals are typically infected by a patient. This dataset would conform nicely to a user-faced dashboard as there are several attributes which can be represented in a variety of visual ways and the overall research question is narrow enough that a dashboard should be able to adequately represent the results/answer.
 
 ![alt text](https://github.com/data301-2020-winter1/course-project-solo_116/blob/main/images/106400977-1582221957198gettyimages-1201980398.jpg)
+<blockquote>Mask wearing has become the new normal across the globe. (South Korea mask wearing)</blockquote>
 
 ## Dataset Description
 
