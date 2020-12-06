@@ -16,6 +16,10 @@ The dataset used in this project was collected from statistics released by the K
 
 Jesse Plamondon - Computer Science Major, Minor in Economics. 3 time CWSF medalist, BC Winter Games Alumni, hockey fan (Go Oilers!).
 
+## Project Presentation link
+
+https://drive.google.com/drive/folders/1EB1c8DPk1CpEtw5xigBRV9E5YpzZpsVv?usp=sharing
+
 ## References
 
 *Image credit:* https://image.cnbcfm.com/api/v1/image/106400977-1582221957198gettyimages-1201980398.jpeg?v=1582840557&w=678&h=381
